@@ -13,7 +13,13 @@
 <br>
 
 <p align="center">
-  <img src="assets/print-projeto.png" width="100%">
+  <img src="assets/1.png" width="100%">
+</p>
+<p align="center">
+  <img src="assets/2.png" width="100%">
+</p>
+<p align="center">
+  <img src="assets/3.png" width="100%">
 </p>
 
 ## 📟 Sobre o Projeto
@@ -38,5 +44,9 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
+
+<p align="center">
+  <img src="assets/4.png" width="100%">
+</p>
 
 Feito com ♥ by vhfcaetano
