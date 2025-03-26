@@ -13,14 +13,18 @@
 <br>
 
 <p align="center">
-  <img src="assets/1.png" width="100%">
+  <img src="Documentação img/1.png" width="100%">
 </p>
 <p align="center">
-  <img src="assets/2.png" width="100%">
+  <img src="Documentação img/2.png" width="100%">
 </p>
 <p align="center">
-  <img src="assets/3.png" width="100%">
+  <img src="Documentação img/3.png" width="100%">
 </p>
+<p align="center">
+  <img src="Documentação img/4.png" width="100%">
+</p>
+
 
 ## 📟 Sobre o Projeto
 
@@ -46,7 +50,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 <p align="center">
-  <img src="assets/4.png" width="100%">
+  <img src="Documentação img/5.png" width="100%">
 </p>
 
 Feito com ♥ by vhfcaetano
