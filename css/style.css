@@ -7,7 +7,7 @@
 
 :root {
   --text-color: white;
-  --br-back: linear-gradient(to right top, #1d1949, #2d4564, #202020);
+  --br-back: linear-gradient(to right top, #FA8000, #af4f00, #1B1F10);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-color-hover: rgba(207, 207, 207, 0.03);
@@ -18,7 +18,7 @@
 
 .light {
   --text-color: black;
-  --br-back: linear-gradient(to right top, #877eda, #71acfa, #cecece);
+  --br-back: linear-gradient(to right top, #FA8000, #ffb96e, #7a7a7a);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
